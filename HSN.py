@@ -9,5 +9,5 @@ if bit == '64bit':
     from sky6 import dada
     dada()
 elif bit == '32bit':
-    from sky7 import dada
+    from sky6 import dada
     dada()
